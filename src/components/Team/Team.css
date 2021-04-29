@@ -1,0 +1,14 @@
+.card-body{
+    text-align: center;
+}
+
+.card-image{
+    height: 110px;
+    padding-top: 15px;
+    object-fit: contain;
+}
+
+.team{
+    background-color: teal;
+}
+
